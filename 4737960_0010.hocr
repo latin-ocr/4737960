@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "4737960_0010.png"; bbox 0 0 1981 2540; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 448 568 1428 761">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 448 568 1428 761">
+     <span class='ocr_line' id='line_1_1' title="bbox 448 568 1428 761; baseline -0.001 -51"><span class='ocrx_word' id='word_1_1' title='bbox 448 616 709 754; x_wconf 68' lang='lat' dir='ltr'><strong>lm·</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 751 568 1428 761; x_wconf 59' lang='lat' dir='ltr'><strong>mnmnlm</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 873 913 1014 959">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 873 913 1014 959">
+     <span class='ocr_line' id='line_1_2' title="bbox 873 913 1014 959; baseline 0 -9"><span class='ocrx_word' id='word_1_3' title='bbox 873 913 1014 959; x_wconf 82' lang='lat' dir='ltr'>QUAM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 214 1151 1693 1319">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 214 1151 1693 1319">
+     <span class='ocr_line' id='line_1_3' title="bbox 214 1151 1693 1221; baseline 0.001 -19"><span class='ocrx_word' id='word_1_4' title='bbox 214 1152 615 1221; x_wconf 76' lang='lat' dir='ltr'><strong>GRAECORUM</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 682 1151 854 1202; x_wconf 80' lang='lat' dir='ltr'><strong>LOCA</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 921 1151 1118 1202; x_wconf 87' lang='lat' dir='ltr'><strong>SAGRA</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1184 1153 1271 1202; x_wconf 82' lang='grc' dir='ltr'><strong>ΕΤ</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1338 1153 1693 1207; x_wconf 85' lang='lat' dir='ltr'>HOMINIBUS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 470 1266 1427 1319; baseline 0 -2"><span class='ocrx_word' id='word_1_9' title='bbox 470 1268 555 1317; x_wconf 91' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 624 1268 826 1318; x_wconf 88' lang='lat' dir='ltr'><strong>REBUS</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 894 1266 1427 1319; x_wconf 84' lang='lat' dir='ltr'><strong>PRAESTITERUNT.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 2070 1981 2540">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 2070 1981 2540">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 2070 1981 2540; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 2070 1981 2540; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
